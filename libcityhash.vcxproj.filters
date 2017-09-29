@@ -18,7 +18,7 @@
       <Filter>include</Filter>
     </ClInclude>
     <ClInclude Include="config.h">
-      <Filter>include</Filter>
+      <Filter>src</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>
